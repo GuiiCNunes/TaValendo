@@ -3,7 +3,7 @@ name: Publicar no GitHub Pages
 on:
   push:
     branches:
-      - jump_start
+      - main
   workflow_dispatch:
 
 permissions:
